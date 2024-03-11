@@ -54,8 +54,8 @@ aplikasi web dan desain antarmuka pengguna, saya bertekad untuk terus belajar da
 
 ---
 ### Connect with me:
-- Email = atikaoktavianti88@gmail.com
-- Instagram = https://www.instagram.com/atikaoktaa_?igsh=MWo3dXYzcDl0amdvYg==
-- Facebook = https://www.facebook.com/atika.oktavianti.18?mibextid=ZbWKwL
-- YouTube = https://youtube.com/@AtikaOktavianti?si=Hepm1nJIqGdGymuQ
+- [Email](atikaoktavianti88@gmail.com)
+- [Instagram](https://www.instagram.com/atikaoktaa_?igsh=MWo3dXYzcDl0amdvYg==)
+- [Facebook](https://www.facebook.com/atika.oktavianti.18?mibextid=ZbWKwL)
+- [YouTube](https://youtube.com/@AtikaOktavianti?si=Hepm1nJIqGdGymuQ)
 
