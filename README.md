@@ -1,8 +1,6 @@
 # Hi there, I'm Atika Oktavianti - [atikaoktaa_](https://www.instagram.com/atikaoktaa_?igsh=MWo3dXYzcDl0amdvYg==) 👋
 ## About me:
-Saya adalah Mahasiswa Semester 3 dari Program Studi Teknik Informatika Fakultas Teknik Universitas Bengkulu.
-Saya bercita-cita menjadi seorang web developer yang handal. Saya memiliki minat yang mendalam dalam pengembangan 
-aplikasi web dan desain antarmuka pengguna, saya bertekad untuk terus belajar dan mengembangkan diri dalam bidang ini. Tujuan saya adalah menciptakan pengalaman pengguna yang menarik dan fungsional melalui proyek-proyek web yang saya kerjakan.
+Saya adalah mahasiswa semester 6 Program Studi Informatika di Universitas Bengkulu dengan minat kuat di bidang analisis data, machine learning, dan pengembangan web. Saya memiliki tekad untuk terus belajar dan mengembangkan diri dalam bidang teknologi, khususnya dalam menciptakan solusi berbasis data dan aplikasi web yang efektif dan fungsional. Fokus saya adalah menguasai keterampilan teknis serta kemampuan problem-solving guna menghasilkan inovasi yang berdampak positif. Saya terbiasa menggunakan berbagai tools dan teknologi seperti Python, Pandas, NumPy, Scikit-learn, TensorFlow, SQL, Matplotlib, dan Git, serta berkomitmen untuk terus meningkatkan pengetahuan dan kemampuan saya secara berkelanjutan.
 
 ## Education:
 #### 1. [SDN 2 ABS Perigi](https://data.sekolah-kita.net/sekolah/SDN%202%20ABS%20PERIGI_228778) 
